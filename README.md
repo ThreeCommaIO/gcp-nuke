@@ -6,7 +6,7 @@ Docker image can be built as configured.
 
 ## gcp-nuke Reference
 
-This reference is included for proper usage of the container once built
+This reference is included for proper usage of the container once built.
 
 ```
 NAME:
